@@ -1,0 +1,6 @@
+node_modules
+coverage
+.env
+forumapi-ec2.pem
+package-lock.json
+config/database/test.json
